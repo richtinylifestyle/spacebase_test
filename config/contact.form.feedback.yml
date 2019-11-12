@@ -1,4 +1,4 @@
-uuid: 80e7ddf9-dd13-408d-bc2e-ff3d6bc8aeed
+uuid: 74e69f1b-7968-46ad-93e4-11975a168774
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - stephencataldo@gmail.com
+  - richbodo@gmail.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
